@@ -4,6 +4,11 @@ React ile geliştirilmiş, görev ekleme, listeleme, güncelleme ve silme işlem
 
 Bu proje, Web Geliştirme eğitimi kapsamında JavaScript proje yönergesine uygun olarak hazırlanmıştır.
 
+## Canlı Demo
+
+🔗https://rana-tanriverdi-todo.netlify.app/
+
+
 ## Ekran Görüntüsü
 
 ![Todo App ekran görüntüsü](screenshots/rana_tanriverdi_js_proje.png)
